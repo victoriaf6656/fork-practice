@@ -39,9 +39,10 @@ the preview it looks like one line
 
 Turn the entire block of code below into a code snippet with HTML syntax highlighting.
 
-
+```
 <ol>
     <li>Item 1</li>
     <li>Item 2</li>
     <li>Item 3</li>
 </ol>
+```
